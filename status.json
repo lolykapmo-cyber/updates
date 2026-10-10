@@ -3,9 +3,11 @@
   "releaseNotes": "النسخة المستقرة - نظام إدارة الصيدليات المتكامل مرحبا",
   "downloadUrl": "",
   "announcement": "يتوفر نسخه جديده",
-  "messages": {},
+  "messages": {
+    "6AH2M-MC624-VCSAH-GN": "يرجى التواصل مع الإدارة الفنية للأهمية القصوى: 07829827366."
+  },
   "blacklist": [],
   "resetList": [],
-  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4xLjAiLCJhbm5vdW5jZW1lbnQiOiLZitiq2YjZgdixINmG2LPYrtmHINis2K_Zitiv2YciLCJtZXNzYWdlcyI6e319",
-  "signature": "2-_wDU2VZoRP1DYgBPIaLSM9YKwGjIrHtVoxZr0p8ZMoByijb2iMdkoqtC78c9UkVyIn47OI6_eQKktb0xgECw"
+  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4xLjAiLCJhbm5vdW5jZW1lbnQiOiLZitiq2YjZgdixINmG2LPYrtmHINis2K_Zitiv2YciLCJtZXNzYWdlcyI6eyI2QUgyTS1NQzYyNC1WQ1NBSC1HTiI6ItmK2LHYrNmJINin2YTYqtmI2KfYtdmEINmF2Lkg2KfZhNil2K_Yp9ix2Kkg2KfZhNmB2YbZitipINmE2YTYo9mH2YXZitipINin2YTZgti12YjZiTogMDc4Mjk4MjczNjYuIn19",
+  "signature": "Gww72SR1C1aE5ANsfzDL9NdLpKsEj4XieM3WxsJGdF2IyUATaaNf7kLjACyuhvOCLJl_Zb9KyPXJfedr2wi2Cg"
 }
