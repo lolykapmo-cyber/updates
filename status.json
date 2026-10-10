@@ -4,10 +4,10 @@
   "downloadUrl": "jalal.com",
   "announcement": "",
   "messages": {},
-  "blacklist": [
+  "blacklist": [],
+  "resetList": [
     "6AH2M-MC624-VCSAH-GN"
   ],
-  "resetList": [],
-  "signedPayload": "eyJibGFja2xpc3QiOlsiNkFIMk0tTUM2MjQtVkNTQUgtR04iXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuMi4xIiwiYW5ub3VuY2VtZW50IjoiIiwibWVzc2FnZXMiOnt9fQ",
-  "signature": "XDUDobwoFdhou4Wb0qjAXuHowKyw_9K4weUGqcXczDmsahRbYBZDBvtED41fMr9aJ1O9x31HIP1NEu9kL5IuAg"
+  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOlsiNkFIMk0tTUM2MjQtVkNTQUgtR04iXSwibGF0ZXN0VmVyc2lvbiI6IjAuMi4xIiwiYW5ub3VuY2VtZW50IjoiIiwibWVzc2FnZXMiOnt9fQ",
+  "signature": "zUBfKeaH84FEeJR3BSS8SDn91TcRg2eUrU3TVkBmnGhSkY1Hum-E6ujC4aaUar9duQk5vLdq9NMiUrEkLJiiDQ"
 }
