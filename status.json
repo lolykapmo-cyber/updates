@@ -3,5 +3,7 @@
   "releaseNotes": "النسخة المستقرة - نظام إدارة الصيدليات المتكامل",
   "downloadUrl": "",
   "announcement": "",
-  "blacklist": []
+  "blacklist": [
+    "AH2M-MC624-VCSAH-GN"
+  ]
 }
