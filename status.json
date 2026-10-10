@@ -3,8 +3,9 @@
   "releaseNotes": "النسخة المستقرة - نظام إدارة الصيدليات المتكامل مرحبا",
   "downloadUrl": "",
   "announcement": "يتوفر نسخه جديده",
+  "messages": {},
   "blacklist": [],
   "resetList": [],
-  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4xLjAiLCJhbm5vdW5jZW1lbnQiOiLZitiq2YjZgdixINmG2LPYrtmHINis2K_Zitiv2YcifQ",
-  "signature": "4fD9siAuOai1947vx_qv-F_oW-eAZm6mexoN642SXVekvHDTua1M8zxsbZMO1iRSuuXwC3ae6plViB6Uc1DqDg"
+  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4xLjAiLCJhbm5vdW5jZW1lbnQiOiLZitiq2YjZgdixINmG2LPYrtmHINis2K_Zitiv2YciLCJtZXNzYWdlcyI6e319",
+  "signature": "2-_wDU2VZoRP1DYgBPIaLSM9YKwGjIrHtVoxZr0p8ZMoByijb2iMdkoqtC78c9UkVyIn47OI6_eQKktb0xgECw"
 }
