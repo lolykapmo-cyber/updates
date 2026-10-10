@@ -2,10 +2,12 @@
   "latestVersion": "0.1.0",
   "releaseNotes": "النسخة المستقرة - نظام إدارة الصيدليات المتكامل مرحبا",
   "downloadUrl": "jalal.com",
-  "announcement": "أهلاً بكم في نظام JzPharma لإدارة الصيدليات — نتمنى لكم عملاً موفقاً ومثمراً.",
-  "messages": {},
+  "announcement": "",
+  "messages": {
+    "6AH2M-MC624-VCSAH-GN": "تم استلام دفعة الاشتراك بنجاح، شكراً لتعاملكم مع نظام JzPharma."
+  },
   "blacklist": [],
   "resetList": [],
-  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4xLjAiLCJhbm5vdW5jZW1lbnQiOiLYo9mH2YTYp9mLINio2YPZhSDZgdmKINmG2LjYp9mFIEp6UGhhcm1hINmE2KXYr9in2LHYqSDYp9mE2LXZitiv2YTZitin2Kog4oCUINmG2KrZhdmG2Ykg2YTZg9mFINi52YXZhNin2Ysg2YXZiNmB2YLYp9mLINmI2YXYq9mF2LHYp9mLLiIsIm1lc3NhZ2VzIjp7fX0",
-  "signature": "DzG2HDgxKJ_cK_kd55D1WJ-VZOUJ7O3Wp_Q8dhnY_vvN7ntpuMuLBWz3Td1P4KaZf-ymVKWy-RUBXTfXo5IaCQ"
+  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4xLjAiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6eyI2QUgyTS1NQzYyNC1WQ1NBSC1HTiI6Itiq2YUg2KfYs9iq2YTYp9mFINiv2YHYudipINin2YTYp9i02KrYsdin2YMg2KjZhtis2KfYrdiMINi02YPYsdin2Ysg2YTYqti52KfZhdmE2YPZhSDZhdi5INmG2LjYp9mFIEp6UGhhcm1hLiJ9fQ",
+  "signature": "hqi-6Y6yahDurqLp8wlgpfim8UpMF4LJKqJUGneW1gfPI6HwqUINRaruEOLaMSW694bi3bAogPElIFxnvrNRAA"
 }
