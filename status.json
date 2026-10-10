@@ -4,6 +4,9 @@
   "downloadUrl": "",
   "announcement": "يتوفر نسخه جديده",
   "blacklist": [],
-  "signedPayload": "eyJibGFja2xpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4xLjAiLCJhbm5vdW5jZW1lbnQiOiLZitiq2YjZgdixINmG2LPYrtmHINis2K_Zitiv2YcifQ",
-  "signature": "cAye-eudlCuDJaK31_6rVlxlTEQ0TCoaT2EdWy5pjzsew3qYw25apWFD4J3QE_cgzyhJojSuRj6rCYmrQZr_BQ"
+  "resetList": [
+    "6AH2M-MC624-VCSAH-GN"
+  ],
+  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOlsiNkFIMk0tTUM2MjQtVkNTQUgtR04iXSwibGF0ZXN0VmVyc2lvbiI6IjAuMS4wIiwiYW5ub3VuY2VtZW50Ijoi2YrYqtmI2YHYsSDZhtiz2K7ZhyDYrNiv2YrYr9mHIn0",
+  "signature": "EEWPKWAc_znAZLz2WzFkvJM_D9BT8E5a2LpH6Lk5Zmq7GOwvxZRdELcrOBK_kZUbf84bWg80mrAXRIWN8tvLCg"
 }
