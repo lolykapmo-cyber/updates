@@ -5,7 +5,9 @@
   "announcement": "",
   "messages": {},
   "blacklist": [],
-  "resetList": [],
-  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4yLjEiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
-  "signature": "dQra2ITSO7WLkb_m_-3ez_mo2PyskXGuAMUdmCCMr0H5Y8pA2jU5v6Hfld8CsIN63GEeLavDz1scD7EgVDFwCg"
+  "resetList": [
+    "6AH2M-MC624-VCSAH-GN"
+  ],
+  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOlsiNkFIMk0tTUM2MjQtVkNTQUgtR04iXSwibGF0ZXN0VmVyc2lvbiI6IjAuMi4xIiwiYW5ub3VuY2VtZW50IjoiIiwibWVzc2FnZXMiOnt9fQ",
+  "signature": "zUBfKeaH84FEeJR3BSS8SDn91TcRg2eUrU3TVkBmnGhSkY1Hum-E6ujC4aaUar9duQk5vLdq9NMiUrEkLJiiDQ"
 }
