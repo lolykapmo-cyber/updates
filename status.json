@@ -5,7 +5,9 @@
   "announcement": "",
   "messages": {},
   "blacklist": [],
-  "resetList": [],
-  "signedPayload": "eyJzZXEiOjE3OTI5MTI4ODksImlzc3VlZEF0IjoiMjAyNi0xMC0yNVQwNzoyMToyOS4xNjNaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuMS4wIiwicmVsZWFzZU5vdGVzIjoi2KfZhNmG2LPYrtipINin2YTZhdiz2KrZgtix2KkgLSDZhti42KfZhSDYpdiv2KfYsdipINin2YTYtdmK2K_ZhNmK2KfYqiDYp9mE2YXYqtmD2KfZhdmEINmF2LHYrdio2KciLCJkb3dubG9hZFVybCI6IiIsImFubm91bmNlbWVudCI6IiIsIm1lc3NhZ2VzIjp7fX0",
-  "signature": "PIjdrt-vZNQ2g2UexX_re-_dsbBEitlEwXP4KS4tAaFWTB7eajGQdRqoh6IlQkdKxlIKWk2Yq_zLwd7NT2UZCQ"
+  "resetList": [
+    "6AH2M-MC624-VCSAH-GN"
+  ],
+  "signedPayload": "eyJzZXEiOjE3OTI5MTI4OTEsImlzc3VlZEF0IjoiMjAyNi0xMC0yNVQwNzoyMTozMS42MzJaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbIjZBSDJNLU1DNjI0LVZDU0FILUdOIl0sImxhdGVzdFZlcnNpb24iOiIwLjEuMCIsInJlbGVhc2VOb3RlcyI6Itin2YTZhtiz2K7YqSDYp9mE2YXYs9iq2YLYsdipIC0g2YbYuNin2YUg2KXYr9in2LHYqSDYp9mE2LXZitiv2YTZitin2Kog2KfZhNmF2KrZg9in2YXZhCDZhdix2K3YqNinIiwiZG93bmxvYWRVcmwiOiIiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
+  "signature": "gu-9S6YrKTL3Mi2D3tbjrkN1_ABiE-iz_z_jatnSu2Mt_vA3j7j6hBdWbqDhKlSxtwIgrJFAl4wugRIUm58NAg"
 }
