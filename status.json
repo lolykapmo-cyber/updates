@@ -4,8 +4,10 @@
   "downloadUrl": "",
   "announcement": "",
   "messages": {},
-  "blacklist": [],
+  "blacklist": [
+    "6AH2M-MC624-VCSAH-GN"
+  ],
   "resetList": [],
-  "signedPayload": "eyJzZXEiOjE3OTI5MTM0NTUsImlzc3VlZEF0IjoiMjAyNi0xMC0yNVQwNzozMDo1NS41ODhaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuMS4wIiwicmVsZWFzZU5vdGVzIjoi2KfZhNmG2LPYrtipINin2YTZhdiz2KrZgtix2KkgLSDZhti42KfZhSDYpdiv2KfYsdipINin2YTYtdmK2K_ZhNmK2KfYqiDYp9mE2YXYqtmD2KfZhdmEINmF2LHYrdio2KciLCJkb3dubG9hZFVybCI6IiIsImFubm91bmNlbWVudCI6IiIsIm1lc3NhZ2VzIjp7fX0",
-  "signature": "ucOPQmhyN5mSwl4wV_hpUNYHbiUsP-6Gw5a_oCLv1ZB2pqWEPUKuo5mNYLktpNvbR0rLyEAVbHvzo-0nBD_uDQ"
+  "signedPayload": "eyJzZXEiOjE3OTI5MTQyMzcsImlzc3VlZEF0IjoiMjAyNi0xMC0yNVQwNzo0Mzo1Ny4zMzdaIiwiYmxhY2tsaXN0IjpbIjZBSDJNLU1DNjI0LVZDU0FILUdOIl0sInJlc2V0TGlzdCI6W10sImxhdGVzdFZlcnNpb24iOiIwLjEuMCIsInJlbGVhc2VOb3RlcyI6Itin2YTZhtiz2K7YqSDYp9mE2YXYs9iq2YLYsdipIC0g2YbYuNin2YUg2KXYr9in2LHYqSDYp9mE2LXZitiv2YTZitin2Kog2KfZhNmF2KrZg9in2YXZhCDZhdix2K3YqNinIiwiZG93bmxvYWRVcmwiOiIiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
+  "signature": "mzgaBQC4uDPOc-gJFh7pc3Pdif8eyfzSStYbeUgMCAPhIZ5RheoT5zaBHLouWEY8rGFaf4YkNEAB6cmwKxaBDw"
 }
