@@ -1,11 +1,13 @@
 {
-  "latestVersion": "0.2.1",
+  "latestVersion": "0.1.0",
   "releaseNotes": "النسخة المستقرة - نظام إدارة الصيدليات المتكامل مرحبا",
-  "downloadUrl": "jalal.com",
+  "downloadUrl": "",
   "announcement": "",
   "messages": {},
-  "blacklist": [],
+  "blacklist": [
+    "6AH2M-MC624-VCSAH-GN"
+  ],
   "resetList": [],
-  "signedPayload": "eyJibGFja2xpc3QiOltdLCJyZXNldExpc3QiOltdLCJsYXRlc3RWZXJzaW9uIjoiMC4yLjEiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
-  "signature": "dQra2ITSO7WLkb_m_-3ez_mo2PyskXGuAMUdmCCMr0H5Y8pA2jU5v6Hfld8CsIN63GEeLavDz1scD7EgVDFwCg"
+  "signedPayload": "eyJzZXEiOjE3OTI5MTI3ODQsImlzc3VlZEF0IjoiMjAyNi0xMC0yNVQwNzoxOTo0NC41NjZaIiwiYmxhY2tsaXN0IjpbIjZBSDJNLU1DNjI0LVZDU0FILUdOIl0sInJlc2V0TGlzdCI6W10sImxhdGVzdFZlcnNpb24iOiIwLjEuMCIsInJlbGVhc2VOb3RlcyI6Itin2YTZhtiz2K7YqSDYp9mE2YXYs9iq2YLYsdipIC0g2YbYuNin2YUg2KXYr9in2LHYqSDYp9mE2LXZitiv2YTZitin2Kog2KfZhNmF2KrZg9in2YXZhCDZhdix2K3YqNinIiwiZG93bmxvYWRVcmwiOiIiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
+  "signature": "CDBdWq9Udov7hA1tov3rm6wZ-p0d2juLMBBexdf0pTB6WE6v6KBvnny1H8NrG2ZonhgzWI2UFXU7iwvCUvhcDA"
 }
