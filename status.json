@@ -1,11 +1,11 @@
 {
   "latestVersion": "0.1.0",
-  "releaseNotes": "النسخة المستقرة - نظام إدارة الصيدليات المتكامل مرحبا",
+  "releaseNotes": "تحديث أمني هام وترقية كفاءة قواعد البيانات ومزامنة الأجهزة",
   "downloadUrl": "",
   "announcement": "",
   "messages": {},
   "blacklist": [],
   "resetList": [],
-  "signedPayload": "eyJzZXEiOjE3OTI5MTUwNjQsImlzc3VlZEF0IjoiMjAyNi0xMC0yNVQwNzo1Nzo0NC45NDhaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuMS4wIiwicmVsZWFzZU5vdGVzIjoi2KfZhNmG2LPYrtipINin2YTZhdiz2KrZgtix2KkgLSDZhti42KfZhSDYpdiv2KfYsdipINin2YTYtdmK2K_ZhNmK2KfYqiDYp9mE2YXYqtmD2KfZhdmEINmF2LHYrdio2KciLCJkb3dubG9hZFVybCI6IiIsImFubm91bmNlbWVudCI6IiIsIm1lc3NhZ2VzIjp7fX0",
-  "signature": "wCBvHbaYsflptJRKuP0mRmKdbJNVrwK1j8-KCQcdaXxTgkz666CPi_GhS8VmFfYuVUBPM2VVbpSsYxJ2HrOlCQ"
+  "signedPayload": "eyJzZXEiOjE3OTM0NjgzODcsImlzc3VlZEF0IjoiMjAyNi0xMC0zMVQxNzozOTo0Ny42MjdaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuMS4wIiwicmVsZWFzZU5vdGVzIjoi2KrYrdiv2YrYqyDYo9mF2YbZiiDZh9in2YUg2YjYqtix2YLZitipINmD2YHYp9ih2Kkg2YLZiNin2LnYryDYp9mE2KjZitin2YbYp9iqINmI2YXYstin2YXZhtipINin2YTYo9is2YfYstipIiwiZG93bmxvYWRVcmwiOiIiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
+  "signature": "xPKC_RRgW5abWqRyl9OZCnPPl_jeiGNcke7Kx755XlFkrDIXCLBBRk08O5g3FVCFVwuR4bXzbKRRVYL4qUG5BA"
 }
