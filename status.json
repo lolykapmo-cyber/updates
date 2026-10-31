@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.1.0",
+  "latestVersion": "0.2.0",
   "releaseNotes": "تحديث أمني هام وترقية كفاءة قواعد البيانات ومزامنة الأجهزة",
   "downloadUrl": "",
   "announcement": "",
   "messages": {},
   "blacklist": [],
   "resetList": [],
-  "signedPayload": "eyJzZXEiOjE3OTM0Njg0MDQsImlzc3VlZEF0IjoiMjAyNi0xMC0zMVQxNzo0MDowNC45NThaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuMS4wIiwicmVsZWFzZU5vdGVzIjoi2KrYrdiv2YrYqyDYo9mF2YbZiiDZh9in2YUg2YjYqtix2YLZitipINmD2YHYp9ih2Kkg2YLZiNin2LnYryDYp9mE2KjZitin2YbYp9iqINmI2YXYstin2YXZhtipINin2YTYo9is2YfYstipIiwiZG93bmxvYWRVcmwiOiIiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
-  "signature": "6O5-CmTsFnV835SgSgq6fmEj6siNxBAbEkYQ90TDxzITEVni_v44OiBCzFmLZXLuGd8Xgx6B5m-iZDUk8PfcDw"
+  "signedPayload": "eyJzZXEiOjE3OTM0NjkxODIsImlzc3VlZEF0IjoiMjAyNi0xMC0zMVQxNzo1MzowMi45MTRaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuMi4wIiwicmVsZWFzZU5vdGVzIjoi2KrYrdiv2YrYqyDYo9mF2YbZiiDZh9in2YUg2YjYqtix2YLZitipINmD2YHYp9ih2Kkg2YLZiNin2LnYryDYp9mE2KjZitin2YbYp9iqINmI2YXYstin2YXZhtipINin2YTYo9is2YfYstipIiwiZG93bmxvYWRVcmwiOiIiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
+  "signature": "ryL1GEDPjQDP0m-vsDPOaaF3gAXHnReqWBg3aX891Bfs2EuKHhBQDJHyry1ZBar8o7hNtCud_N6nmE_l-UFyDg"
 }
