@@ -1,11 +1,19 @@
 {
-  "latestVersion": "0.2.0",
-  "releaseNotes": "تحديث أمني هام وترقية كفاءة قواعد البيانات ومزامنة الأجهزة",
+  "latestVersion": "0.6.51",
+  "updateFile": {
+    "forVersion": "0.1.0",
+    "sha512": "WXWuiMwD/nY2VpMsLUZdANukgApiqpsQWzF+kQqZ++0fuJumoBLEPwDj9K9KWTkE2x2h9AYIuEMqg3SH0zy84A==",
+    "size": 106459989,
+    "name": "JzPharma-Setup-0.6.51.exe"
+  },
+  "sha512": "",
+  "size": 0,
+  "releaseNotes": "النسخة المستقرة - نظام إدارة الصيدليات المتكامل",
   "downloadUrl": "",
   "announcement": "",
   "messages": {},
   "blacklist": [],
   "resetList": [],
-  "signedPayload": "eyJzZXEiOjE3OTM0NjkxODksImlzc3VlZEF0IjoiMjAyNi0xMC0zMVQxNzo1MzowOS4wODhaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuMi4wIiwicmVsZWFzZU5vdGVzIjoi2KrYrdiv2YrYqyDYo9mF2YbZiiDZh9in2YUg2YjYqtix2YLZitipINmD2YHYp9ih2Kkg2YLZiNin2LnYryDYp9mE2KjZitin2YbYp9iqINmI2YXYstin2YXZhtipINin2YTYo9is2YfYstipIiwiZG93bmxvYWRVcmwiOiIiLCJhbm5vdW5jZW1lbnQiOiIiLCJtZXNzYWdlcyI6e319",
-  "signature": "zzD9eR2oKJbzCudoX10oBTzjbNg_JBYmE2_P-GlMgMoBpZbgpeCPNtppU-lpht0r_6tIMyG0GxFuWVCxpTOUCQ"
+  "signedPayload": "eyJzZXEiOjE3OTUxNjY0MjAsImlzc3VlZEF0IjoiMjAyNi0xMS0yMFQwOToyMDoyMC4yMjJaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuNi41MSIsInJlbGVhc2VOb3RlcyI6Itin2YTZhtiz2K7YqSDYp9mE2YXYs9iq2YLYsdipIC0g2YbYuNin2YUg2KXYr9in2LHYqSDYp9mE2LXZitiv2YTZitin2Kog2KfZhNmF2KrZg9in2YXZhCIsImRvd25sb2FkVXJsIjoiIiwiYW5ub3VuY2VtZW50IjoiIiwibWVzc2FnZXMiOnt9fQ",
+  "signature": "3suSaf4vEhMu2o9oiEfUWR797TNWOthVkUo29n_u36GrFYVdIqg4OB6SFn8A5XQONg5UelDgML-d4TC2nQgrDg"
 }
