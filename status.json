@@ -1,19 +1,19 @@
 {
-  "latestVersion": "0.6.51",
+  "latestVersion": "0.6.52",
   "updateFile": {
-    "forVersion": "0.6.51",
-    "sha512": "WXWuiMwD/nY2VpMsLUZdANukgApiqpsQWzF+kQqZ++0fuJumoBLEPwDj9K9KWTkE2x2h9AYIuEMqg3SH0zy84A==",
-    "size": 106459989,
-    "name": "JzPharma-Setup-0.6.51.exe"
+    "forVersion": "0.6.52",
+    "sha512": "MAgc+dutqQbjatYS9P036AYww2MOby+CqPiEsrPMDPwjPFvrmZCvB1BLXBajG2WuBIeKK3eqeS/giRdXPY8drQ==",
+    "size": 106471504,
+    "name": "JzPharma-Setup-0.6.52.exe"
   },
-  "sha512": "WXWuiMwD/nY2VpMsLUZdANukgApiqpsQWzF+kQqZ++0fuJumoBLEPwDj9K9KWTkE2x2h9AYIuEMqg3SH0zy84A==",
-  "size": 106459989,
+  "sha512": "MAgc+dutqQbjatYS9P036AYww2MOby+CqPiEsrPMDPwjPFvrmZCvB1BLXBajG2WuBIeKK3eqeS/giRdXPY8drQ==",
+  "size": 106471504,
   "releaseNotes": "النسخة المستقرة - نظام إدارة الصيدليات المتكامل",
-  "downloadUrl": "https://github.com/lolykapmo-cyber/updates/releases/download/v0.6.51/JzPharma-Setup-0.6.51.exe",
+  "downloadUrl": "https://github.com/lolykapmo-cyber/updates/releases/download/v0.6.52/JzPharma-Setup-0.6.52.exe",
   "announcement": "",
   "messages": {},
   "blacklist": [],
   "resetList": [],
-  "signedPayload": "eyJzZXEiOjE3OTUxNjY3MDMsImlzc3VlZEF0IjoiMjAyNi0xMS0yMFQwOToyNTowMy4yMDZaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuNi41MSIsInJlbGVhc2VOb3RlcyI6Itin2YTZhtiz2K7YqSDYp9mE2YXYs9iq2YLYsdipIC0g2YbYuNin2YUg2KXYr9in2LHYqSDYp9mE2LXZitiv2YTZitin2Kog2KfZhNmF2KrZg9in2YXZhCIsImRvd25sb2FkVXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2xvbHlrYXBtby1jeWJlci91cGRhdGVzL3JlbGVhc2VzL2Rvd25sb2FkL3YwLjYuNTEvSnpQaGFybWEtU2V0dXAtMC42LjUxLmV4ZSIsInNoYTUxMiI6IldYV3VpTXdEL25ZMlZwTXNMVVpkQU51a2dBcGlxcHNRV3pGK2tRcVorKzBmdUp1bW9CTEVQd0RqOUs5S1dUa0UyeDJoOUFZSXVFTXFnM1NIMHp5ODRBPT0iLCJzaXplIjoxMDY0NTk5ODksImFubm91bmNlbWVudCI6IiIsIm1lc3NhZ2VzIjp7fX0",
-  "signature": "Zc539IWH4l8lCDTtKW7fp_hodTgTvhreBfrHK7M1wkdErbgqbs-IgVUpC3P51tGMCOC81Bc-j-3yeNiHIUqTBQ"
+  "signedPayload": "eyJzZXEiOjE3OTU0NDM1MDEsImlzc3VlZEF0IjoiMjAyNi0xMS0yM1QxNDoxODoyMS42MjRaIiwiYmxhY2tsaXN0IjpbXSwicmVzZXRMaXN0IjpbXSwibGF0ZXN0VmVyc2lvbiI6IjAuNi41MiIsInJlbGVhc2VOb3RlcyI6Itin2YTZhtiz2K7YqSDYp9mE2YXYs9iq2YLYsdipIC0g2YbYuNin2YUg2KXYr9in2LHYqSDYp9mE2LXZitiv2YTZitin2Kog2KfZhNmF2KrZg9in2YXZhCIsImRvd25sb2FkVXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2xvbHlrYXBtby1jeWJlci91cGRhdGVzL3JlbGVhc2VzL2Rvd25sb2FkL3YwLjYuNTIvSnpQaGFybWEtU2V0dXAtMC42LjUyLmV4ZSIsInNoYTUxMiI6Ik1BZ2MrZHV0cVFiamF0WVM5UDAzNkFZd3cyTU9ieStDcVBpRXNyUE1EUHdqUEZ2cm1aQ3ZCMUJMWEJhakcyV3VCSWVLSzNlcWVTL2dpUmRYUFk4ZHJRPT0iLCJzaXplIjoxMDY0NzE1MDQsImFubm91bmNlbWVudCI6IiIsIm1lc3NhZ2VzIjp7fX0",
+  "signature": "pe4T3UShbv13NUbhebkFbsPT_AAQ7ekeofF0_MZX_ftNJR4kmMfA5sFagkM5yZWe5EOvsxQS7gu2inn13E7dDA"
 }
